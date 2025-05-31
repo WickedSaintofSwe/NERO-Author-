@@ -1,0 +1,5 @@
+{
+  "name": "Check Formatting for Reedsy",
+  "description": "Verifies and adjusts text for Reedsy Book Editor compatibility.",
+  "instructions": "Review the given text and correct formatting issues. Ensure proper paragraph breaks, no special characters, and no bold/italic styles. Prepare for copy-paste into Reedsy."
+}
