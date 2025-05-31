@@ -1,0 +1,5 @@
+{
+  "name": "Generate Book Title and Subtitle",
+  "description": "Creates a compelling, relevant book title with an optional subtitle.",
+  "instructions": "Based on the book’s theme and content, suggest 3-5 title options. Each should include an optional subtitle. Titles should be emotionally resonant, clear, and marketable."
+}
